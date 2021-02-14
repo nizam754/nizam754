@@ -17,8 +17,10 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
 <p>
   Achieving a dynamic and challenging job where I could use my technical and interpersonal skills, creative above all my learning experiences in order to develop my career and as well as to contribute in the welfare the organization. 
 </p>
+
 ---
-  ### Send me a message!
+
+### Send me a message!
   
   - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
   
