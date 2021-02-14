@@ -50,6 +50,8 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
 ---
 
 ### Top Languages Card
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nizam754)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?
+username=nizam754"/>
 
 
