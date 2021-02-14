@@ -1,4 +1,4 @@
-<img src="/Github banner.jpg" alt="banner"/>
+<img src="/Github_banner.jpg" alt="banner"/>
 
 ### Hi there and welcome to my GitHub page 👋
 
