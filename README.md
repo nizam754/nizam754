@@ -3,7 +3,7 @@
 ### Hi there and welcome to my GitHub page 👋
 
 My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a lot of things, and some of them you may even find interesting.🤞
-
+---
 ### What do I do?
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -16,8 +16,8 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
 
 <p>
   Achieving a dynamic and challenging job where I could use my technical and interpersonal skills, creative above all my learning experiences in order to develop my career and as well as to contribute in the welfare the organization. 
-  </p>
-  
+</p>
+---
   ### Send me a message!
   
   - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
