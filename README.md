@@ -45,9 +45,11 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
 
 ### Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?
-username=nizam754&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Mostafa+Nizam's+GitHub+Stats&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nizam754&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true"/>
+
+---
+
+### Top Languages Card
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nizam754)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=nizam754&hide=html&layout=compact&title_color=FD9047&icon_color=FD9047&bg_color=0C2233&text_color=D6D6D6"/>
