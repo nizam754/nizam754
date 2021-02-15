@@ -14,7 +14,11 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" />
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=Microsoft SQL Server&logoColor=white&style=for-the-badge" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google Colab-F9AB00?logo=Google Colab&logoColor=black&style=for-the-badge" />
 
 </p>
 
