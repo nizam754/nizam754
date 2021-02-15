@@ -9,15 +9,17 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
 ### What do I do?
 <p>
   <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+  <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+  <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
   <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
   <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+  <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
   <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
   <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+  <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
   
-  [![GitHub](icons/github.png)](https://github.com/hussainweb)
-  [![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
 
 </p>
 
