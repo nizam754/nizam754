@@ -18,7 +18,8 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google Colab-F9AB00?logo=Google Colab&logoColor=black&style=for-the-badge" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=whitek&style=for-the-badge" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=whitek&style=for-the-badge" />
 
 </p>
 
