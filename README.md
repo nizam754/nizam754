@@ -27,10 +27,9 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
   <a href="https://nodejs.org/" title="nodejs"><img src="icons/nodejs.png" /></a>
   <a href="https://jupyter.org/" title="Jupyter"><img src="icons/jupyter.png" /></a>
   <a href="https://www.mongodb.com/" title="mongodb"><img src="icons/mongodb.png" /></a>
-  <a href="https://www.mongodb.com/" title="mongodb"><img src="icons/mongodb.png" /></a>
   <a href="https://www.postman.com/" title="postman"><img src="icons/postman.png" /></a>
   <a href="https://www.photoshop.com/" title="PhotoShop"><img src="icons/ps.png" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" title="SQL"><img src="icons/sql.png" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" title="SQL"><img src="icons/sqls.png" /></a>
   
 
 </p>
