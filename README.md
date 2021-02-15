@@ -11,6 +11,7 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
   <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
   <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
   <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+  <a href="https://cran.r-project.org/" title="R"><img src="icons/r.png" /></a>
   <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
   <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
   <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
