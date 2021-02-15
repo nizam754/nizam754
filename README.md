@@ -19,6 +19,18 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
   <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
   <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+  <a href="https://getbootstrap.com/" title="Bootstrab"><img src="icons/bootstrab.png" /></a>
+  <a href="https://colab.research.google.com/" title="colab"><img src="icons/colab.png" /></a>
+  <a href="/" title="CSS"><img src="icons/css.png" /></a>
+  <a href="/" title="HTML"><img src="icons/html.png" /></a>
+  <a href="/" title="JavaScript"><img src="icons/javascript.png" /></a>
+  <a href="https://nodejs.org/" title="nodejs"><img src="icons/nodejs.png" /></a>
+  <a href="https://jupyter.org/" title="Jupyter"><img src="icons/jupyter.png" /></a>
+  <a href="https://www.mongodb.com/" title="mongodb"><img src="icons/mongodb.png" /></a>
+  <a href="https://www.mongodb.com/" title="mongodb"><img src="icons/mongodb.png" /></a>
+  <a href="https://www.postman.com/" title="postman"><img src="icons/postman.png" /></a>
+  <a href="https://www.photoshop.com/" title="PhotoShop"><img src="icons/ps.png" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" title="SQL"><img src="icons/sql.png" /></a>
   
 
 </p>
