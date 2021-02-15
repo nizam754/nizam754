@@ -8,19 +8,16 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
 
 ### What do I do?
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" />
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=whitek&style=for-the-badge" />
-  <img alt="adobephotoshop" src="https://img.shields.io/badge/adobephotoshop-31A8FF?logo=adobephotoshop&logoColor=whitek&style=for-the-badge" />
-  <img alt="github" src="https://img.shields.io/badge/github-181717?logo=github&logoColor=whitek&style=for-the-badge" />
+  <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+  <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+  <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+  
+  [![GitHub](icons/github.png)](https://github.com/hussainweb)
+  [![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
 
 </p>
 
