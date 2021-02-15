@@ -6,7 +6,7 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
 
 ---
 
-### What do I do?
+### My skills include:
 <p>
   <a href="/" title="HTML"><img src="icons/html.png" /></a>
   <a href="/" title="CSS"><img src="icons/css.png" /></a>
