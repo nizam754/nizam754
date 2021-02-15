@@ -8,30 +8,29 @@ My name is Mostafa Nizam  and I am a software engineer from Bangladesh. I do a l
 
 ### What do I do?
 <p>
+  <a href="/" title="HTML"><img src="icons/html.png" /></a>
+  <a href="/" title="CSS"><img src="icons/css.png" /></a>
+  <a href="https://getbootstrap.com/" title="Bootstrab"><img src="icons/bootstrab.png" /></a>
+  <a href="/" title="JavaScript"><img src="icons/javascript.png" /></a>
+  <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+  <a href="https://nodejs.org/" title="nodejs"><img src="icons/nodejs.png" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+  <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
   <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
   <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-  <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
   <a href="https://cran.r-project.org/" title="R"><img src="icons/r.png" /></a>
   <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
   <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
   <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-  <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
   <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-  <a href="https://getbootstrap.com/" title="Bootstrab"><img src="icons/bootstrab.png" /></a>
   <a href="https://colab.research.google.com/" title="colab"><img src="icons/colab.png" /></a>
-  <a href="/" title="CSS"><img src="icons/css.png" /></a>
-  <a href="/" title="HTML"><img src="icons/html.png" /></a>
-  <a href="/" title="JavaScript"><img src="icons/javascript.png" /></a>
-  <a href="https://nodejs.org/" title="nodejs"><img src="icons/nodejs.png" /></a>
   <a href="https://jupyter.org/" title="Jupyter"><img src="icons/jupyter.png" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" title="SQL"><img src="icons/sqls.png" /></a>
   <a href="https://www.mongodb.com/" title="mongodb"><img src="icons/mongodb.png" /></a>
   <a href="https://www.postman.com/" title="postman"><img src="icons/postman.png" /></a>
+  <a href="https://www.soapui.org/" title="soapui"><img src="icons/soapui.png" /></a>
   <a href="https://www.photoshop.com/" title="PhotoShop"><img src="icons/ps.png" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" title="SQL"><img src="icons/sqls.png" /></a>
-  
-
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 </p>
 
 <p>
