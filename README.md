@@ -2,7 +2,7 @@
 
 **DevOps & Cloud Engineering · IT Leadership · FinTech**
 
-[LinkedIn](https://www.linkedin.com/in/mn754/) · [Fiverr](https://www.fiverr.com/m_nizam) · [DevOps Projects](https://github.com/nizam754/NizamDevOpsProjects)
+[LinkedIn](https://www.linkedin.com/in/mn754/) · [Upwork](https://www.upwork.com/freelancers/~010cee382438196f3c) · [Fiverr](https://www.fiverr.com/m_nizam) · [DevOps Projects](https://github.com/nizam754/NizamDevOpsProjects)
 
 I help teams deploy applications, automate delivery, and manage infrastructure on **AWS and Microsoft Azure**. I bring **12+ years of IT experience**, including work with FinTech and remittance systems, and combine hands-on engineering with leadership as **AGM and Head of IT**.
 
@@ -66,4 +66,4 @@ Additional training includes Microsoft Azure, DevOps, Linux security, GitHub Act
 
 I welcome conversations about cloud infrastructure, deployment automation, observability, and FinTech engineering.
 
-For professional connections, reach me on [LinkedIn](https://www.linkedin.com/in/mn754/). For freelance project enquiries, message me on [Fiverr](https://www.fiverr.com/m_nizam).
+For professional connections, reach me on [LinkedIn](https://www.linkedin.com/in/mn754/). For freelance project enquiries, message me on [Upwork](https://www.upwork.com/freelancers/~010cee382438196f3c) or [Fiverr](https://www.fiverr.com/m_nizam).
