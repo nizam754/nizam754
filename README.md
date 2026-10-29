@@ -150,6 +150,14 @@ These public repositories document hands-on implementations and reference archit
 
 Issued by **Amazon Web Services Training and Certification**. Select a badge to verify it on Credly.
 
+### Google Cloud / Qwiklabs learning badges
+
+| Area | Earned learning badges |
+| --- | --- |
+| **Cloud infrastructure** | Cloud Engineering · Windows on Google Cloud · Google Cloud Essentials |
+| **Application development** | Cloud Development · Exploring APIs |
+| **Data and AI** | Data Engineering · Baseline: Data, ML, AI |
+
 Additional course training includes **Microsoft Azure, DevOps, Linux security, GitHub Actions, and Python for DevOps**.
 
 [View badges on Credly →](https://www.credly.com/users/mostafa-nizam) · [View additional training on LinkedIn →](https://www.linkedin.com/in/mn754/details/certifications/)
