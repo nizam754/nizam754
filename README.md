@@ -156,8 +156,8 @@ Additional course training includes **Microsoft Azure, DevOps, Linux security, G
 
 ## 🎓 Education and professional memberships
 
-- **M.Sc. in Computer Science & Engineering** — Jagannath University, Dhaka, 2020.
-- **B.Sc. in Computer Science & Engineering** — University of Information Technology & Sciences, Dhaka, 2018.
+- **M.Sc. in Computer Science & Engineering** — Jagannath University, Dhaka.
+- **B.Sc. in Computer Science & Engineering** — University of Information Technology & Sciences, Dhaka.
 - **Professional memberships:** Bangladesh Computer Society (BCS) and Institution of Diploma Engineers, Bangladesh (IDEB).
 
 ---
