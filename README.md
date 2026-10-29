@@ -156,8 +156,24 @@ Additional course training includes **Microsoft Azure, DevOps, Linux security, G
 
 ## 📊 GitHub activity
 
+### Contribution calendar
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nizam754&amp;rank_icon=github&amp;show_icons=true&amp;theme=transparent" alt="GitHub statistics for nizam754" width="58%" />
+  <a href="https://github.com/nizam754?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31">
+    <img src="https://ghchart.rshah.org/nizam754" alt="Mostafa Nizam's GitHub contribution calendar over the past year" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nizam754?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31"><strong>View 2026 contributions and yearly history →</strong></a>
+</p>
+
+The calendar covers the past year. **Total Contributions** in the statistics card counts activity across all years; use the yearly history for a specific year.
+
+### Repository statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=nizam754&amp;rank_icon=github&amp;show_icons=true&amp;show=contributions&amp;theme=transparent" alt="GitHub statistics for nizam754" width="58%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nizam754&amp;layout=compact&amp;langs_count=4&amp;hide_values=true&amp;theme=transparent" alt="Languages across nizam754's public repositories" width="38%" />
 </p>
 
