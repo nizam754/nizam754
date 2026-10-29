@@ -169,6 +169,13 @@ Issued by **Amazon Web Services Training and Certification**. Select a badge to 
 
 Select a badge to view my earned credential on Google Skills.
 
+### Microsoft Learning challenges
+
+| Completed challenge | Platform |
+| --- | --- |
+| **Microsoft Ignite: Cloud Developer Challenge** | Microsoft Learning |
+| **Get Started with Azure DevOps** | Microsoft Learning |
+
 Additional course training includes **Microsoft Azure, DevOps, Linux security, GitHub Actions, and Python for DevOps**.
 
 [View badges on Credly →](https://www.credly.com/users/mostafa-nizam) · [View additional training on LinkedIn →](https://www.linkedin.com/in/mn754/details/certifications/)
