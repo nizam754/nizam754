@@ -31,6 +31,23 @@ I help teams deploy applications, automate delivery, and manage infrastructure o
 
 ---
 
+## 💼 Professional experience
+
+My leadership experience includes managing a **25-member IT team supporting 100+ users**, alongside hands-on responsibility for infrastructure, ERP systems, application delivery and banking integrations.
+
+| Role | Organization | Period |
+| --- | --- | --- |
+| **Assistant General Manager & Head of IT** | NEC Money Transfer Limited | Jan 2024 – Present |
+| **IT Manager** | NEC Money Transfer Limited | Jan 2018 – Jan 2024 |
+
+Earlier experience includes **IT Officer and Senior Officer IT** roles at **National Exchange Company**, covering networks, systems administration and remittance operations.
+
+- **Technology leadership:** align IT strategy with business priorities, oversee architecture and ERP changes, and coordinate with management, banks and external partners.
+- **Application delivery:** banking and partner API integrations, .NET deployments on IIS, Java delivery pipelines, and infrastructure automation.
+- **Security and resilience:** endpoint security, log management, customer-data protection, backup and recovery planning, with experience addressing GDPR, FCA and SARB requirements in remittance operations.
+
+---
+
 ## ⚡ Technology stack
 
 ### ☁️ Cloud platforms
@@ -40,6 +57,8 @@ I help teams deploy applications, automate delivery, and manage infrastructure o
 </p>
 
 **AWS · Microsoft Azure**
+
+Additional cloud experience: **Google Cloud and DigitalOcean**.
 
 ### 🐳 Containers and infrastructure automation
 
@@ -63,7 +82,7 @@ I help teams deploy applications, automate delivery, and manage infrastructure o
   <img src="https://skillicons.dev/icons?i=grafana,prometheus&amp;theme=dark" alt="Grafana and Prometheus" />
 </p>
 
-**Grafana · Prometheus · Loki · SonarQube · Trivy**
+**Grafana · Prometheus · Zabbix · Loki · SonarQube · Trivy**
 
 ### 🛠️ Systems, scripting and applications
 
@@ -71,7 +90,11 @@ I help teams deploy applications, automate delivery, and manage infrastructure o
   <img src="https://skillicons.dev/icons?i=linux,bash,py,dotnet&amp;theme=dark" alt="Linux, Bash, Python and .NET" />
 </p>
 
-**Linux · Windows Server · Bash · Python · .NET / IIS · Java deployments · REST APIs · SQL Server**
+**Linux · Windows Server · Active Directory · Bash · PowerShell · Python · Go · .NET / IIS · Java deployments**
+
+### 🔌 Integration and databases
+
+**REST · SOAP · SQL Server · MySQL · Postman · SoapUI · JMeter**
 
 ---
 
@@ -128,6 +151,14 @@ These public repositories document hands-on implementations and reference archit
 Additional course training includes **Microsoft Azure, DevOps, Linux security, GitHub Actions, and Python for DevOps**.
 
 [View credentials on LinkedIn →](https://www.linkedin.com/in/mn754/details/certifications/)
+
+---
+
+## 🎓 Education and professional memberships
+
+- **M.Sc. in Computer Science & Engineering** — Jagannath University, Dhaka, 2020.
+- **B.Sc. in Computer Science & Engineering** — University of Information Technology & Sciences, Dhaka, 2018.
+- **Professional memberships:** Bangladesh Computer Society (BCS) and Institution of Diploma Engineers, Bangladesh (IDEB).
 
 ---
 
