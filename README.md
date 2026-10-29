@@ -152,11 +152,22 @@ Issued by **Amazon Web Services Training and Certification**. Select a badge to 
 
 ### Google Cloud / Qwiklabs learning badges
 
-| Area | Earned learning badges |
-| --- | --- |
-| **Cloud infrastructure** | Cloud Engineering · Windows on Google Cloud · Google Cloud Essentials |
-| **Application development** | Cloud Development · Exploring APIs |
-| **Data and AI** | Data Engineering · Baseline: Data, ML, AI |
+<table>
+  <tr>
+    <td align="center" width="25%"><a href="https://www.skills.google/public_profiles/631c5945-dce7-4006-bf5f-57cb957c605c/badges/201713"><img src="https://cdn.qwiklabs.com/VwBmz5J2MvvRf0Lvmt54lfL4tBaRx0vHWbhr31H5f34%3D" width="110" alt="Cloud Engineering — earned Qwiklabs learning badge" /></a><br /><strong>Cloud Engineering</strong></td>
+    <td align="center" width="25%"><a href="https://www.skills.google/public_profiles/631c5945-dce7-4006-bf5f-57cb957c605c/badges/199064"><img src="https://cdn.qwiklabs.com/smlA%2BmjzWEdUX3Hreta8a9x4jDcJ1nK6w8btbFasxxk%3D" width="110" alt="Windows on Google Cloud — earned Qwiklabs learning badge" /></a><br /><strong>Windows on Google Cloud</strong></td>
+    <td align="center" width="25%"><a href="https://www.skills.google/public_profiles/631c5945-dce7-4006-bf5f-57cb957c605c/badges/148834"><img src="https://cdn.qwiklabs.com/NJXdOUqfszVky%2FyoHmmZfjSyB5b7Z8Td69Vk0LBrETs%3D" width="110" alt="Cloud Development — earned Qwiklabs learning badge" /></a><br /><strong>Cloud Development</strong></td>
+    <td align="center" width="25%"><a href="https://www.skills.google/public_profiles/631c5945-dce7-4006-bf5f-57cb957c605c/badges/100592"><img src="https://cdn.qwiklabs.com/KS6gqGqz%2BvMrVQXdkHkkXRUr%2FLB5gaxEVP91KizG6z0%3D" width="110" alt="Data Engineering — earned Qwiklabs learning badge" /></a><br /><strong>Data Engineering</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><a href="https://www.skills.google/public_profiles/631c5945-dce7-4006-bf5f-57cb957c605c/badges/95687"><img src="https://cdn.qwiklabs.com/jsSYBfmx0HU2%2FS0jWJkOq61EBGLdXopfwcjxqGcmdq8%3D" width="110" alt="Google Cloud Essentials — earned Qwiklabs learning badge" /></a><br /><strong>Google Cloud Essentials</strong></td>
+    <td align="center" width="25%"><a href="https://www.skills.google/public_profiles/631c5945-dce7-4006-bf5f-57cb957c605c/badges/88820"><img src="https://cdn.qwiklabs.com/8U%2B5ItFtYBfUxcKES2r7VScyMigkpgorU7ZhALKbv9U%3D" width="110" alt="Exploring APIs — earned Qwiklabs learning badge" /></a><br /><strong>Exploring APIs</strong></td>
+    <td align="center" width="25%"><a href="https://www.skills.google/public_profiles/631c5945-dce7-4006-bf5f-57cb957c605c/badges/88317"><img src="https://cdn.qwiklabs.com/mUeNKNWDtaeEhrbfOk9ZeoVzk2S1rvU5FFHfT%2BeD2%2F4%3D" width="110" alt="Baseline: Data, ML, AI — earned Qwiklabs learning badge" /></a><br /><strong>Baseline: Data, ML, AI</strong></td>
+    <td align="center" width="25%"><strong>Google Skills</strong><br /><a href="https://www.skills.google/public_profiles/631c5945-dce7-4006-bf5f-57cb957c605c">View all earned badges →</a></td>
+  </tr>
+</table>
+
+Select a badge to view my earned credential on Google Skills.
 
 Additional course training includes **Microsoft Azure, DevOps, Linux security, GitHub Actions, and Python for DevOps**.
 
