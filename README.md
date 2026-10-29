@@ -143,14 +143,16 @@ These public repositories document hands-on implementations and reference archit
 
 ## 🏅 Certifications and training
 
-| Certification | Issuer |
-| --- | --- |
-| **AWS Certified Solutions Architect – Associate** | Amazon Web Services |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services |
+| AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner | AWS Cloud Quest: Cloud Practitioner |
+| :---: | :---: | :---: |
+| [<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="140" alt="AWS Certified Solutions Architect – Associate badge" />](https://www.credly.com/badges/e3149d68-b539-4edf-9f44-e1cc2d1a5abd/public_url) | [<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="140" alt="AWS Certified Cloud Practitioner badge" />](https://www.credly.com/badges/01976d19-9664-421d-a350-6560cb98ff46) | [<img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="140" alt="AWS Cloud Quest: Cloud Practitioner training badge" />](https://www.credly.com/badges/0d3d0236-b79b-4791-82ce-a5513139d723) |
+| **Certification** | **Certification** | **Training badge** |
+
+Issued by **Amazon Web Services Training and Certification**. Select a badge to verify it on Credly.
 
 Additional course training includes **Microsoft Azure, DevOps, Linux security, GitHub Actions, and Python for DevOps**.
 
-[View credentials on LinkedIn →](https://www.linkedin.com/in/mn754/details/certifications/)
+[View badges on Credly →](https://www.credly.com/users/mostafa-nizam) · [View additional training on LinkedIn →](https://www.linkedin.com/in/mn754/details/certifications/)
 
 ---
 
