@@ -1,69 +1,155 @@
-# Mostafa Nizam
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Mostafa Nizam — DevOps, Cloud and FinTech" width="100%" />
+</p>
 
-**DevOps & Cloud Engineering · IT Leadership · FinTech**
+<h1 align="center">M O S T A F A &nbsp; N I Z A M</h1>
+<h3 align="center">DevOps &amp; Cloud Engineer · IT Leader · FinTech</h3>
 
-[LinkedIn](https://www.linkedin.com/in/mn754/) · [Upwork](https://www.upwork.com/freelancers/~010cee382438196f3c) · [Fiverr](https://www.fiverr.com/m_nizam) · [DevOps Projects](https://github.com/nizam754/NizamDevOpsProjects)
+<p align="center">
+  <code>AWS</code> · <code>Microsoft Azure</code> · <code>CI/CD</code> · <code>Kubernetes</code> · <code>Infrastructure as Code</code> · <code>Observability</code>
+</p>
 
-I help teams deploy applications, automate delivery, and manage infrastructure on **AWS and Microsoft Azure**. I bring **12+ years of IT experience**, including work with FinTech and remittance systems, and combine hands-on engineering with leadership as **AGM and Head of IT**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mn754/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/~010cee382438196f3c"><img src="https://img.shields.io/badge/Upwork-108A00?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Hire me on Upwork" /></a>
+  <a href="https://www.fiverr.com/m_nizam"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&amp;logo=fiverr&amp;logoColor=white" alt="View my Fiverr profile" /></a>
+  <a href="https://github.com/nizam754/NizamDevOpsProjects"><img src="https://img.shields.io/badge/DevOps_Projects-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my DevOps projects" /></a>
+</p>
 
-My work spans CI/CD, containers, Linux and Windows servers, monitoring, and application integrations. I focus on repeatable deployments, clear documentation, and systems that teams can operate with confidence.
+<p align="center"><strong>Helping teams deploy with confidence and operate with clarity.</strong></p>
 
-## What I work on
+---
 
-- **Cloud infrastructure:** application hosting, migration, environment setup, and operational support across AWS and Azure.
-- **Delivery automation:** build, test, code analysis, artifact management, and deployment pipelines.
-- **Containers and infrastructure automation:** Docker, Kubernetes, Helm, Terraform, and Ansible.
-- **Observability and operations:** server metrics, application logs, dashboards, troubleshooting, and backup and recovery planning.
-- **FinTech applications:** API integrations, SQL Server, and deployment support for .NET/IIS and Java applications.
+## 👋 About me
 
-## Technology focus
+I help teams deploy applications, automate delivery, and manage infrastructure on **AWS and Microsoft Azure**. I bring **12+ years of IT experience**, including FinTech and remittance systems, and combine hands-on engineering with leadership as **AGM and Head of IT**.
 
-| Area | Tools and platforms |
+- **Cloud and automation:** application hosting, migrations, repeatable environments, and CI/CD pipelines.
+- **Containers and operations:** Docker, Kubernetes, Linux and Windows servers, monitoring, and troubleshooting.
+- **FinTech delivery:** API integrations, SQL Server, .NET/IIS and Java deployments, and backup and recovery planning.
+- **Working approach:** clear communication, practical documentation, and maintainable handovers.
+
+---
+
+## ⚡ Technology stack
+
+### ☁️ Cloud platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure&amp;theme=dark" alt="AWS and Microsoft Azure" />
+</p>
+
+**AWS · Microsoft Azure**
+
+### 🐳 Containers and infrastructure automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible&amp;theme=dark" alt="Docker, Kubernetes, Terraform and Ansible" />
+</p>
+
+**Docker · Kubernetes · Helm · Terraform · Ansible**
+
+### 🔄 CI/CD and source control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,maven&amp;theme=dark" alt="Jenkins, GitHub Actions, Git and Maven" />
+</p>
+
+**Jenkins · GitHub Actions · Azure DevOps · Git · Maven · Nexus**
+
+### 📊 Monitoring and code quality
+
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus&amp;theme=dark" alt="Grafana and Prometheus" />
+</p>
+
+**Grafana · Prometheus · Loki · SonarQube · Trivy**
+
+### 🛠️ Systems, scripting and applications
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,dotnet&amp;theme=dark" alt="Linux, Bash, Python and .NET" />
+</p>
+
+**Linux · Windows Server · Bash · Python · .NET / IIS · Java deployments · REST APIs · SQL Server**
+
+---
+
+## 📂 Featured projects
+
+These public repositories document hands-on implementations and reference architectures.
+
+### ☁️ AWS architecture and migration
+
+| Project | What it covers |
 | --- | --- |
-| Cloud | AWS, Microsoft Azure |
-| CI/CD and version control | Jenkins, GitHub Actions, Azure DevOps, Git, Maven |
-| Containers | Docker, Kubernetes, Helm |
-| Infrastructure automation | Terraform, Ansible, Bash, Python |
-| Systems | Linux, Windows Server, IIS |
-| Observability | Grafana, Prometheus, Loki |
-| Code quality and security | SonarQube, Trivy |
-| Applications and data | .NET, Java deployments, REST APIs, SQL Server |
+| [AWS application rearchitecture](https://github.com/nizam754/Re-Architecting_Web_App_on_AWS_Cloud) | A multi-tier application using Elastic Beanstalk, RDS, ElastiCache, Amazon MQ, S3 and CloudFront. |
+| [AWS lift-and-shift migration](https://github.com/nizam754/AWSCloudforWebAppSetup_LiftandShift) | Moving a multi-tier web application to AWS infrastructure. |
 
-## Selected projects
+### 🚀 CI/CD and container delivery
 
-These public repositories document hands-on DevOps implementations and reference architectures.
+| Project | What it covers |
+| --- | --- |
+| [Jenkins, Docker and Kubernetes](https://github.com/nizam754/cicd_Dock_Kube_Jen) | Container image builds, registry integration and Kubernetes deployment with Helm. |
+| [Jenkins, Nexus and SonarQube](https://github.com/nizam754/CI_Using_Jenkins_Nexus_Sonarqube_Slack) | Builds, code analysis, artifact publishing and Slack notifications. |
+| [Continuous integration on AWS](https://github.com/nizam754/CI_on_AWS_Cloud) | An AWS-based continuous integration workflow. |
+| [Continuous delivery for Java](https://github.com/nizam754/Continuous_Delivery_of_Java_Web_Application) | A documented delivery workflow for a Java web application. |
 
-### [Jenkins CI/CD for Docker and Kubernetes](https://github.com/nizam754/cicd_Dock_Kube_Jen)
+### 🧩 Application environments
 
-A documented workflow for building Docker images and deploying applications to Kubernetes with Helm. Covers registry integration, declarative pipelines, and deployment testing.
+| Project | What it covers |
+| --- | --- |
+| [Automated multi-tier application setup](https://github.com/nizam754/Automated_Setup_of_Multi_Tier_App_Locally) | Automation for setting up a local multi-tier application environment. |
+| [Multi-tier web application setup](https://github.com/nizam754/Multi_Tier_Web_Application_Setup_Locally) | A local application stack and its setup process. |
 
-**Stack:** Jenkins · Docker · Kubernetes · Helm · Maven · SonarQube
+<p align="center">
+  <a href="https://github.com/nizam754/NizamDevOpsProjects"><strong>Explore the complete DevOps project collection →</strong></a>
+</p>
 
-### [Rearchitecting a web application on AWS](https://github.com/nizam754/Re-Architecting_Web_App_on_AWS_Cloud)
+---
 
-A multi-tier application architecture using AWS managed services. Documents application hosting, database and cache setup, security groups, HTTPS, and content delivery.
+## 🎯 Engineering focus
 
-**Stack:** Elastic Beanstalk · RDS · ElastiCache · Amazon MQ · S3 · Route 53 · CloudFront
+| Infrastructure | Delivery | Operations |
+| --- | --- | --- |
+| AWS and Azure environments | Repeatable CI/CD pipelines | Metrics, logs and dashboards |
+| Terraform and Ansible | Docker and Kubernetes | Troubleshooting and runbooks |
+| Cloud migration and architecture | Application and API integrations | Backup and recovery planning |
 
-### [Continuous integration with quality checks and artifact management](https://github.com/nizam754/CI_Using_Jenkins_Nexus_Sonarqube_Slack)
+---
 
-An integration workflow connecting source changes to builds, code analysis, artifact publishing, and build notifications.
+## 🏅 Certifications and training
 
-**Stack:** Jenkins · Git · Maven · SonarQube · Nexus · Slack · AWS EC2
+| Certification | Issuer |
+| --- | --- |
+| **AWS Certified Solutions Architect – Associate** | Amazon Web Services |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services |
 
-**[Explore all DevOps projects →](https://github.com/nizam754/NizamDevOpsProjects)**
+Additional course training includes **Microsoft Azure, DevOps, Linux security, GitHub Actions, and Python for DevOps**.
 
-## Certifications
+[View credentials on LinkedIn →](https://www.linkedin.com/in/mn754/details/certifications/)
 
-- **AWS Certified Solutions Architect – Associate**
-- **AWS Certified Cloud Practitioner**
+---
 
-Additional training includes Microsoft Azure, DevOps, Linux security, GitHub Actions, and Python for DevOps.
+## 📊 GitHub activity
 
-[View credentials on LinkedIn](https://www.linkedin.com/in/mn754/details/certifications/)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=nizam754&amp;rank_icon=github&amp;show_icons=true&amp;theme=transparent" alt="GitHub statistics for nizam754" width="58%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nizam754&amp;layout=compact&amp;langs_count=4&amp;hide_values=true&amp;theme=transparent" alt="Languages across nizam754's public repositories" width="38%" />
+</p>
 
-## Let's connect
+---
 
-I welcome conversations about cloud infrastructure, deployment automation, observability, and FinTech engineering.
+## 🤝 Let's work together
 
-For professional connections, reach me on [LinkedIn](https://www.linkedin.com/in/mn754/). For freelance project enquiries, message me on [Upwork](https://www.upwork.com/freelancers/~010cee382438196f3c) or [Fiverr](https://www.fiverr.com/m_nizam).
+Need help with **AWS or Azure infrastructure, CI/CD automation, container deployments, monitoring, or FinTech integrations**?
+
+Share your current stack, the problem you want to solve, and your target timeline. I can help define a focused implementation and handover.
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~010cee382438196f3c"><strong>Discuss a project on Upwork</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.fiverr.com/m_nizam"><strong>Message me on Fiverr</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/mn754/"><strong>Connect on LinkedIn</strong></a>
+</p>
