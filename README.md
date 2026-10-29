@@ -22,7 +22,7 @@
 
 ## 👋 About me
 
-I help teams deploy applications, automate delivery, and manage infrastructure on **AWS and Microsoft Azure**. I bring **12+ years of IT experience**, including FinTech and remittance systems, and combine hands-on engineering with leadership as **AGM and Head of IT**.
+I help teams deploy applications, automate delivery, and manage infrastructure on **AWS and Microsoft Azure**. My IT career began in **2013**, with experience across FinTech and remittance systems. I combine hands-on engineering with leadership as **AGM and Head of IT**.
 
 - **Cloud and automation:** application hosting, migrations, repeatable environments, and CI/CD pipelines.
 - **Containers and operations:** Docker, Kubernetes, Linux and Windows servers, monitoring, and troubleshooting.
@@ -33,7 +33,7 @@ I help teams deploy applications, automate delivery, and manage infrastructure o
 
 ## 💼 Professional experience
 
-My leadership experience includes managing a **25-member IT team supporting 100+ users**, alongside hands-on responsibility for infrastructure, ERP systems, application delivery and banking integrations.
+As IT Manager, I led a **25-member IT team supporting 100+ users**. My responsibilities span infrastructure, ERP systems, application delivery and banking integrations.
 
 | Role | Organization | Period |
 | --- | --- | --- |
@@ -43,7 +43,9 @@ My leadership experience includes managing a **25-member IT team supporting 100+
 Earlier experience includes **IT Officer and Senior Officer IT** roles at **National Exchange Company**, covering networks, systems administration and remittance operations.
 
 - **Technology leadership:** align IT strategy with business priorities, oversee architecture and ERP changes, and coordinate with management, banks and external partners.
-- **Application delivery:** banking and partner API integrations, .NET deployments on IIS, Java delivery pipelines, and infrastructure automation.
+- **Application delivery:** banking and partner API integrations, batch-file processing, .NET deployments on IIS, Java delivery pipelines, and infrastructure automation.
+- **Infrastructure operations:** manage Windows and Linux environments, ERP platforms, load balancing and failover, and backup and recovery planning.
+- **Delivery management:** requirements analysis, Agile/Scrum coordination, project status reporting, and communication with clients, vendors and technical teams.
 - **Security and resilience:** endpoint security, log management, customer-data protection, backup and recovery planning, with experience addressing GDPR, FCA and SARB requirements in remittance operations.
 
 ---
@@ -60,6 +62,8 @@ Earlier experience includes **IT Officer and Senior Officer IT** roles at **Nati
 
 Additional cloud experience: **Google Cloud and DigitalOcean**.
 
+Dedicated-server and data-center platforms: **OVH and Hetzner**.
+
 ### 🐳 Containers and infrastructure automation
 
 <p>
@@ -74,7 +78,7 @@ Additional cloud experience: **Google Cloud and DigitalOcean**.
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,maven&amp;theme=dark" alt="Jenkins, GitHub Actions, Git and Maven" />
 </p>
 
-**Jenkins · GitHub Actions · Azure DevOps · Git · Maven · Nexus**
+**Jenkins · GitHub Actions · Azure DevOps · CircleCI · Git · Maven · Nexus**
 
 ### 📊 Monitoring and code quality
 
@@ -90,11 +94,17 @@ Additional cloud experience: **Google Cloud and DigitalOcean**.
   <img src="https://skillicons.dev/icons?i=linux,bash,py,dotnet&amp;theme=dark" alt="Linux, Bash, Python and .NET" />
 </p>
 
-**Linux · Windows Server · Active Directory · Bash · PowerShell · Python · Go · .NET / IIS · Java deployments**
+**Linux · Windows Server · Active Directory · Apache HTTP Server · Bash · PowerShell · Python · Go · .NET / IIS · Java deployments**
+
+Virtualization: **Hyper-V · VMware Workstation · Vagrant**.
 
 ### 🔌 Integration and databases
 
 **REST · SOAP · SQL Server · MySQL · Postman · SoapUI · JMeter**
+
+### 🤝 Delivery and collaboration
+
+**Agile / Scrum · Jira · ClickUp · Confluence · Stakeholder and vendor coordination**
 
 ---
 
@@ -310,7 +320,16 @@ Select a badge to view my earned credential on Google Skills.
 
 Select any badge or trophy to view my Microsoft Learn achievement.
 
-Additional course training includes **Microsoft Azure, DevOps, Linux security, GitHub Actions, and Python for DevOps**.
+<details>
+<summary><strong>Additional professional training</strong></summary>
+
+- **Cloud and DevOps:** Microsoft Azure, Linux security, GitHub Actions and Python for DevOps; *DevOps Beginners to Advanced — Decoding DevOps with Projects* (Udemy); DevOps and Go coding boot camps (Master Academy).
+- **Windows Server and security:** *Windows Server 2019 Essential Training* and *Securing Windows Server 2019* (LinkedIn Learning / Lynda).
+- **Architecture and databases:** *Software Architecture: Domain-Driven Design* and *Querying Microsoft SQL Server 2019* (LinkedIn Learning / Lynda).
+- **Networking:** CCNA coursework at American International University-Bangladesh.
+- **FinTech compliance:** *Anti-Money Laundering & Terrorist Financing Approaches* (ABM Global Compliance UK Limited) and *Anti-Money Laundering Concepts: AML, KYC and Compliance* (Udemy).
+
+</details>
 
 [View badges on Credly →](https://www.credly.com/users/mostafa-nizam) · [View additional training on LinkedIn →](https://www.linkedin.com/in/mn754/details/certifications/)
 
