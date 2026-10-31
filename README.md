@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">M O S T A F A &nbsp; N I Z A M</h1>
-<h3 align="center">DevOps &amp; Cloud Engineer · IT Leader · FinTech</h3>
+<h3 align="center">Head of IT &amp; FinTech Technology Leader | Cloud, DevSecOps &amp; Infrastructure</h3>
 
 <p align="center">
   <code>AWS</code> · <code>Microsoft Azure</code> · <code>CI/CD</code> · <code>Kubernetes</code> · <code>Infrastructure as Code</code> · <code>Observability</code>
